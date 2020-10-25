@@ -1,0 +1,2 @@
+http://localhost/pustaka_booking_azam/index.php/matakuliah
+http://localhost/pustaka_booking_azam/index.php/web
